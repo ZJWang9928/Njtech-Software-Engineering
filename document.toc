@@ -1,0 +1,27 @@
+\contentsline {section}{\numberline {1}引言}{1}% 
+\contentsline {section}{\numberline {2}需求分析}{1}% 
+\contentsline {subsection}{\numberline {2.1}用户需求}{1}% 
+\contentsline {subsection}{\numberline {2.2}系统功能需求}{2}% 
+\contentsline {subsubsection}{\numberline {2.2.1}详细描述}{2}% 
+\contentsline {subsubsection}{\numberline {2.2.2}用例模型}{4}% 
+\contentsline {subsubsection}{\numberline {2.2.3}用例描述}{6}% 
+\contentsline {subsection}{\numberline {2.3}非功能性需求}{27}% 
+\contentsline {subsubsection}{\numberline {2.3.1}产品需求}{27}% 
+\contentsline {subsubsection}{\numberline {2.3.2}组织需求}{28}% 
+\contentsline {subsubsection}{\numberline {2.3.3}外部需求}{28}% 
+\contentsline {subsection}{\numberline {2.4}业务流程}{28}% 
+\contentsline {subsubsection}{\numberline {2.4.1}运动员用户活动图}{28}% 
+\contentsline {subsubsection}{\numberline {2.4.2}赛事组织者用户活动图}{29}% 
+\contentsline {subsubsection}{\numberline {2.4.3}管理员用户活动图}{29}% 
+\contentsline {subsection}{\numberline {2.5}数据模型}{30}% 
+\contentsline {section}{\numberline {3}软件设计}{30}% 
+\contentsline {subsection}{\numberline {3.1}软件体系结构设计}{30}% 
+\contentsline {subsection}{\numberline {3.2}类的设计}{31}% 
+\contentsline {subsection}{\numberline {3.3}交互模型}{32}% 
+\contentsline {paragraph}{运动员用户赛事报名时序图}{32}% 
+\contentsline {paragraph}{赛事组织者用户赛事发起时序图}{32}% 
+\contentsline {subsection}{\numberline {3.4}数据库设计}{33}% 
+\contentsline {subsubsection}{\numberline {3.4.1}ER图}{33}% 
+\contentsline {subsubsection}{\numberline {3.4.2}表结构}{33}% 
+\contentsline {section}{\numberline {4}程序运行结果}{34}% 
+\contentsline {section}{\numberline {5}总结}{45}% 
